@@ -1,0 +1,1 @@
+run "scrapy crawl stack -o items.json -t json" in terminal
